@@ -1,4 +1,4 @@
-# 营收分析与客户分层项目
+# 项目一、营收分析与客户分层项目——Customer_Analysis_and_K_means_model.ipynb
 
 一、项目简介
 本项目为本人的营收分析与客户分层模板。
